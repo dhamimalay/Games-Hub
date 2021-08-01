@@ -51,14 +51,10 @@ def main():
     l3 = Label(root, text="Rock Paper Scissors", font=("Berlin Sans FB", 25), fg="white", bg="black")
     l3.place(x=1050, y=630)
 
-    by = Label(root, text="Developer contact", font=("Berlin Sans FB", 16), fg="white", bg="black")
+    by = Label(root, text="Developer contact", font=("Berlin Sans FB", 18), fg="white", bg="black")
     by.pack()
-    s1 = Label(root, text="Badrish Davra - 19BCE045", font=("Berlin Sans FB", 18), fg="white", bg="black")
+    s1 = Label(root, text="Malay Dhami", font=("Berlin Sans FB", 20), fg="white", bg="black")
     s1.pack()
-    s2 = Label(root, text="Divyesh Devmurari - 19BCE049", font=("Berlin Sans FB", 18), fg="white", bg="black")
-    s2.pack()
-    s3 = Label(root, text="Malay Dhami - 19BCE051", font=("Berlin Sans FB", 18), fg="white", bg="black")
-    s3.pack()
     root.mainloop()
 
 
