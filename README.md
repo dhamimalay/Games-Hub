@@ -3,8 +3,11 @@
 ## Files included
 
 > Main_Menu.py
+
 > Hangman.py
+
 > Tic_Tac_Toe.py
+
 > Rock_Papper_Scissors.py
 
 ## Packages required
