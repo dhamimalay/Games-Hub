@@ -8,7 +8,7 @@
 
 > Tic_Tac_Toe.py
 
-> Rock_Papper_Scissors.py
+> Rock_Paper_Scissors.py
 
 ## Packages required
 
@@ -28,7 +28,7 @@ NOTE -- It is not to be directly opened
 > Tic_Tac_Toe.py -- it is a python file. It contains our second game i.e. Tic_Tac_Toe in it. 
 NOTE -- It is not to be directly opened
 
-> Rock_Papper_Scissors.py -- it is a python file. It contains our third game i.e. Rock_Paper_Scissor in it. 
+> Rock_Paper_Scissors.py -- it is a python file. It contains our third game i.e. Rock_Paper_Scissor in it. 
 NOTE -- It is not to be directly opened
 
 > Image -- this folder contains all the images used in the games. It is the source for all the images in the game
